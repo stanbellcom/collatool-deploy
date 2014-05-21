@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Collatool feature feature.
+ */
+
+include_once 'collatool_feature.features.inc';
